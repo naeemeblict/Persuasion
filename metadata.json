@@ -1,0 +1,6 @@
+{
+  "name": "Persuasion & Influence Course Portal",
+  "description": "Complete educational curriculum and interactive learning portal for mastering Dr. Robert Cialdini's six core principles of persuasion and ethical influence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
